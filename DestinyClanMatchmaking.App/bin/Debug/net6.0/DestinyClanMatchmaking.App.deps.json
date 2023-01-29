@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DestinyClanMatchmaking.App/1.0.0": {
+        "runtime": {
+          "DestinyClanMatchmaking.App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DestinyClanMatchmaking.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
